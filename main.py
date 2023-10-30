@@ -1,4 +1,4 @@
-print("Task X:\n")
+print("Task 2:\n")
 
 """
 Створіть клас Circle з атрибутом radius та методом
