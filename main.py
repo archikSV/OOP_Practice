@@ -6,7 +6,7 @@ area, який поверне площу кола з вказаним радіу
 """
 
 # classes
-class Cirlce:
+class Circle:
     def __init__(self, radius):
         self.radius = radius
 
@@ -14,7 +14,7 @@ class Cirlce:
         return 3.14 * self.radius ** 2
 
 # objects
-cirlce1 = Cirlce(5)
+circle1 = Circle(5)
 
 # main
-print(circlce1.area())
+print(circle1.area())
